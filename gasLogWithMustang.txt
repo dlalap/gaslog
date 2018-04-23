@@ -1,0 +1,164 @@
+Mi13 274767
+12/22/17
+Gallons 8.291
+Cost $24.86
+
+Mi14 274949
+12/26/17
+Gallons 6.060
+Cost $18.78
+
+Mi15 275244
+12/29/17
+Gallons 9.270
+Cost $30.28
+
+Mi16 275488
+12/31/17
+Gallons 8.738
+Cost 27.78
+
+Mi17 275748
+1/3/17
+Gallons 8.993
+Cost $28.59
+
+Mi18 276032
+1/10/18
+Gallons 9.294
+Cost $30.48
+
+Mi19 276227
+1/12/18
+Gallons 6.763
+Cost $22.58
+
+Mi20 276462
+1/16/18
+Gallons 8.310
+Cost $27.75
+
+Mi21 276617
+1/18/18
+Gallons 5.003
+Cost $16.71
+
+Mi22 276870
+1/22/18
+Gallons 8.571
+Cost: $28.62
+
+Mi23 277104
+1/24/18
+Gallons 7.771
+Cost $26.41
+
+Mi24 277313
+1/29/18
+Gallons 7.169
+Cost $25.08
+
+Mi25 277524
+2/2/18
+Gallons 6.009
+Cost $21.27
+
+Mi26 277732
+2/4/18
+Gallons 6.594
+Cost $23.73
+
+Mi27 277982
+2/8/18
+Gallons 8.174
+Cost $29.58
+
+Mi28 278177
+2/10/18
+Gallons 8.148
+Cost $29.32
+
+Mi29 278446
+2/15/18
+Gallons 8.611
+Cost $31.51
+
+Mi30 278703
+2/21/18
+Gallons 9.308
+Cost $33.50
+
+Mi31 278847
+2/26/18
+Gallons 5.365
+Cost $19.09
+
+Mi32 279147
+2/28/18
+Gallons 9.352
+Cost $34.22
+
+Mi35 279351
+3/5/18
+Gallons 7.260
+Cost $25.55
+
+Old Mustang M1 30329.1
+3/6/18
+Gallons 11.021
+Cost $36.36
+
+Mustang M1 32236.1
+3/7/18
+Gallons 10.658
+Cost: $38.89
+
+Mustang M2 32425.0
+3/12/18
+Gallons 10.463
+Cost $38.18
+
+Mustang M3 32628.6
+3/15/18
+Gallons 10.436
+Cost $38.08
+
+Mi36 279559
+3/17/18
+Gallons 8.101
+Cost $28.35
+
+Mi37 279796
+3/19/18
+Gallons 8.209
+Cost $31.60
+
+Mi38 280065
+3/21/18
+Gallons 9.439
+Cost $35.86
+
+Mi39 280328
+3/25/18
+Gallons 9.903
+Cost $37.62
+
+Mi40 280540
+3/30/18
+Gallons 8.801
+Cost $33.43
+
+Mi41 280667
+4/3/18
+Gallons 5.149
+Cost $18.63
+
+Mi42 280903
+4/5/18
+Gallons 8.290
+Cost $30.00
+
+Mi43 000000
+4/17/18
+Gallons 7.144
+Cost $26.57

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>DLP Gas Logger 2018</title>
+</head>
+
+<body>
+	<ul class="gaslogs">
+		<% for (var i = 0; i < gaslogs.length; i++) { %>
+			<li class="gaslog">
+				<span><%= gaslogs[i].mileage %></span>
+				<span><%= gaslogs[i].date%></span>
+				<span><%= gaslogs[i].gallons%></span>
+				<span><%= gaslogs[i].cost%></span>
+			</li>
+		<% } %>
+	</ul>
+
+	<form action="/gaslogs" method="POST">
+		<input type="text" placeholder="mileage" name="mileage">
+		<input type="date" placeholder="date" name="date">
+		<input type="text" placeholder="gallons used" name="gallons">
+		<input type="text" placeholder="cost" name="cost">
+		<button type="submit">Submit</button>
+	</form>
+</body>
+</html>
